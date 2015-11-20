@@ -19,9 +19,9 @@
 	"screen_colors": "blue,black",
 	"popup_colors":  "yellow,white",
 	
-	"font_face":       "Consolas",
+	"font_face":       "Source Code Pro",
 	"font_true_type":  true,
-	"font_size":       "0x20",
+	"font_size":       "0x15",
 	"font_weight":     700,
 
 	"cursor_size": "small", 
