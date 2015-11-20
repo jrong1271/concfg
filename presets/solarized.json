@@ -17,7 +17,7 @@
 	"white":        "#fdf6e3",
 
 	"screen_colors": "blue,black",
-	"popup_colors":  "yellow,white",
+	"popup_colors":  "blue,black",
 	
 	"font_face":       "Source Code Pro",
 	"font_true_type":  true,
